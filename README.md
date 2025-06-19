@@ -3,8 +3,8 @@
 ## Folder Structure
 
 /content/
-├──ewstools/
-  ├──saved_classifiers/
+  ewstools/
+    saved_classifiers/
     ├──bury_pnas_21/
       ├──len500/ # contains pre-trained DL models from general dynamical systems (bury et al. ) of length 500
 ├──EWSofInfectiousDiseases/
